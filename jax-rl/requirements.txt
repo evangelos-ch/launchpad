@@ -1,3 +1,7 @@
+# Jax
+--find-links https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+jax[cuda12_pip]==0.4.11
+
 # DeepMind
 dm-haiku==0.0.9
 rlax==0.1.5
@@ -7,4 +11,4 @@ chex==0.1.7
 # Utils
 jaxtyping==0.2.20
 beartype==0.14.1
-army-knife[wandb,tensorboard]==0.0.1 @ git+https://github.com/evangelos-ch/army-knife.git@f589626
+army-knife[wandb,tensorboard] @ git+https://github.com/evangelos-ch/army-knife.git@1ad2cc1f09ea7e939588589d247a3e8470a64d81
