@@ -11,4 +11,4 @@ chex==0.1.7
 # Utils
 jaxtyping==0.2.20
 beartype==0.14.1
-army-knife[wandb,tensorboard] @ git+https://github.com/evangelos-ch/army-knife.git@1ad2cc1f09ea7e939588589d247a3e8470a64d81
+mission-control[wandb,tensorboard] @ git+https://github.com/evangelos-ch/mission-control.git@9844ca0
