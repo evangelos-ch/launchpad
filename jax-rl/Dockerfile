@@ -1,4 +1,4 @@
-FROM python:3.11-slim-buster
+FROM python:3.10-slim-buster
 LABEL maintainer="me@evangelos.ai"
 
 RUN apt-get update && apt install -y --no-install-recommends git python3-pip
