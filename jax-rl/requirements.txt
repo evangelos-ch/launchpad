@@ -1,6 +1,6 @@
 # Jax
 --find-links https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
-jax[cuda12_pip]==0.4.12
+jax[cuda12_pip]==0.4.11
 
 # DeepMind
 dm-haiku==0.0.9
