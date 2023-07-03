@@ -2,7 +2,7 @@ stable-baselines3[extras]
 sb3-contrib
 pygame
 tensorboard
-wandb
+wandb==0.15.4
 imageio
 gymnasium
 # gym-PBN[vis]==1.1.1
